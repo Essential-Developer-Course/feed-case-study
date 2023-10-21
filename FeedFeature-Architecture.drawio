@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T20:47:35.795Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7PmenY_tpO5FNtnfPHVj" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T20:52:45.283Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="oTCA1zAAvkSI-bviY1Gh" version="22.0.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="749" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="DCrUhgXeSXr0aNYdPGBc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DCrUhgXeSXr0aNYdPGBc-2" target="DCrUhgXeSXr0aNYdPGBc-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DCrUhgXeSXr0aNYdPGBc-2" value="FeedViewController" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="DCrUhgXeSXr0aNYdPGBc-2" value="FeedViewController" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="305" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DCrUhgXeSXr0aNYdPGBc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="DCrUhgXeSXr0aNYdPGBc-4" target="DCrUhgXeSXr0aNYdPGBc-6">
